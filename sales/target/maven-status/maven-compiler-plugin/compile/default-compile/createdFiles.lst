@@ -1,0 +1,5 @@
+com\data\sales\service\SalesService.class
+com\data\sales\controller\SalesController.class
+com\data\sales\entity\Sales.class
+com\data\sales\SalesApplication.class
+com\data\sales\repository\SalesRepository.class
